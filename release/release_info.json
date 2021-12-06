@@ -1,9 +1,9 @@
 {
   "android-tv": {
-    "versionCode": 16,
-    "versionName": "21.12.02",
-    "title": "v21.12.02-build.16",
-    "description": "This is a complete rewrite of the app.\n\n* Uses less leanback and more standard controls\n* Some known bugs are missing default focus on elements\n* Removed bookmarking and other unused features, like settings\n* Updates are now checked automatically in the background",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2021.12.02-build.15/app-release.apk"
+    "versionCode": 17,
+    "versionName": "21.12.06",
+    "title": "v21.12.06-build.17",
+    "description": "* Minor focus display and auto focus improvements\n* Automatically selects the system language for subtitles",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2021.12.06-build.17/app-release.apk"
   }
 }
