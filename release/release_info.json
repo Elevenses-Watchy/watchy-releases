@@ -1,9 +1,9 @@
 {
   "android-tv": {
-    "versionCode": 18,
-    "versionName": "21.12.08",
-    "title": "v21.12.08-build.18",
-    "description": "* Minor focus display and auto focus improvements\n* Automatically selects the system language for subtitles\n* Next and previous in video palyer\n* Internal bug fixes and improvements",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2021.12.08-build.18/app-release.apk"
+    "versionCode": 19,
+    "versionName": "21.12.09",
+    "title": "v21.12.09-build.19",
+    "description": "* Better focus navigation and season highlighting in episodes list\n* First try at skipping intros based on internal web API",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2021.12.09-build.19/app-release.apk"
   }
 }
