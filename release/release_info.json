@@ -1,9 +1,9 @@
 {
   "android-tv": {
-    "versionCode": 20,
-    "versionName": "21.12.18",
-    "title": "v21.12.18-build.20",
-    "description": "* Fix a crash that would prevent playing videos\n* Better voice search UX",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2021.12.18-build.20/app-release.apk"
+    "versionCode": 21,
+    "versionName": "21.12.27",
+    "title": "v21.12.27-build.21",
+    "description": "* Hide statusbar on non Google TV devices\n* Turn off subtitles by default and add subtitles options to app settings\n* Move app updates into app settings",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2021.12.27-build.21/app-release.apk"
   }
 }
