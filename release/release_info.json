@@ -1,9 +1,9 @@
 {
   "android-tv": {
-    "versionCode": 21,
-    "versionName": "21.12.27",
-    "title": "v21.12.27-build.21",
-    "description": "* Hide statusbar on non Google TV devices\n* Turn off subtitles by default and add subtitles options to app settings\n* Move app updates into app settings",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2021.12.27-build.21/app-release.apk"
+    "versionCode": 22,
+    "versionName": "22.02.03",
+    "title": "v22.02.03-build.22",
+    "description": "* Show (smaller) editor’s choice and recommendations on homepage",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.02.03-build.22/app-release.apk"
   }
 }
