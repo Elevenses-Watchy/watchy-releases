@@ -1,9 +1,9 @@
 {
   "android-tv": {
-    "versionCode": 22,
-    "versionName": "22.02.03",
-    "title": "v22.02.03-build.22",
-    "description": "* Show (smaller) editor’s choice and recommendations on homepage",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.02.03-build.22/app-release.apk"
+    "versionCode": 23,
+    "versionName": "22.03.03",
+    "title": "v22.03.03-build.23",
+    "description": "* Splash screen\n* Complete revamp of home screen",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.03.03-build.23/app-release.apk"
   }
 }
