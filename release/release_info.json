@@ -1,9 +1,9 @@
 {
   "android-tv": {
-    "versionCode": 24,
-    "versionName": "22.03.10",
-    "title": "v22.03.10-build.24",
-    "description": "* Splash screen\n* Complete revamp of home screen and many other screens",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.03.10-build.24/app-release.apk"
+    "versionCode": 25,
+    "versionName": "22.06.16",
+    "title": "v22.06.16-build.25",
+    "description": "* Fix for accessing search and settings on the home screen",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.06.16-build.25/app-release.apk"
   }
 }
