@@ -5,5 +5,12 @@
     "title": "v22.06.16-build.25",
     "description": "* Fix for accessing search and settings on the home screen",
     "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.06.16-build.25/app-release.apk"
+  },
+  "android-tv-beta": {
+    "versionCode": 27,
+    "versionName": "22.09.09",
+    "title": "v22.09.09-build.27",
+    "description": "* Complete redesign with replaced backend\n* Minor bugfixes and improvements",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-beta-v2022.09.09-build.27/app-release.apk"
   }
 }
