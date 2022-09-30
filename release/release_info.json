@@ -7,17 +7,17 @@
     "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.06.16-build.25/app-release.apk"
   },
   "android-tv-beta": {
-    "versionCode": 29,
-    "versionName": "22.09.27",
-    "title": "v22.09.15-build.28",
-    "description": "* Minor UI/UX improvements\n* Subtitle selection will automatically hide overlay\n* Select audio track",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.09.27-build.29/app-release.apk"
+    "versionCode": 30,
+    "versionName": "22.09.30",
+    "title": "v22.09.30-build.30",
+    "description": "* Remember recent searches\n* Remember watch progress",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.09.30-build.30/app-release.apk"
   },
   "android-tv-preview": {
-    "versionCode": 29,
-    "versionName": "22.09.27",
-    "title": "v22.09.15-build.28",
-    "description": "* Minor UI/UX improvements\n* Subtitle selection will automatically hide overlay\n* Select audio track",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.09.27-build.29/app-release.apk"
+    "versionCode": 30,
+    "versionName": "22.09.30",
+    "title": "v22.09.30-build.30",
+    "description": "* Remember recent searches\n* Remember watch progress",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.09.30-build.30/app-release.apk"
   }
 }
