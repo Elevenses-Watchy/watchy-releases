@@ -6,18 +6,11 @@
     "description": "* Fix for accessing search and settings on the home screen",
     "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.06.16-build.25/app-release.apk"
   },
-  "android-tv-beta": {
-    "versionCode": 32,
-    "versionName": "22.10.06",
-    "title": "v22.10.06-build.32",
-    "description": "* Focus management should be more stable now\n* Add items to your favourites",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.10.06-build.32/app-release.apk"
-  },
   "android-tv-preview": {
-    "versionCode": 32,
-    "versionName": "22.10.06",
-    "title": "v22.10.06-build.32",
-    "description": "* Focus management should be more stable now\n* Add items to your favourites",
-    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.10.06-build.32/app-release.apk"
+    "versionCode": 33,
+    "versionName": "22.10.11",
+    "title": "v22.10.11-build.33",
+    "description": "* Fix a problem with half-baked API data",
+    "fileUrl": "https://github.com/Elevenses-Watchy/watchy-releases/releases/download/android-tv-v2022.10.11-build.33/app-release.apk"
   }
 }
